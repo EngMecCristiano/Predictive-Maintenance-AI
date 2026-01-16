@@ -1,0 +1,29 @@
+# Bibliotecas Principais (Versões compatíveis existentes)
+numpy>=2.2.0
+pandas>=2.2.0
+matplotlib>=3.9.0
+scikit-learn>=1.5.0
+scipy>=1.13.0
+seaborn>=0.13.2
+plotly>=5.22.0
+
+# Bibliotecas de Confiabilidade
+lifelines>=0.28.0
+reliability>=0.9.0
+
+# Ferramentas de Sistema/Jupyter
+ipykernel
+ipython
+jupyter-client
+jupyter-core
+openpyxl
+fpdf
+
+# Dependências comuns (deixe o gerenciador resolver as versões)
+joblib
+pillow
+packaging
+python-dateutil
+pytz
+six
+tqdm
